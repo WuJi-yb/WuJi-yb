@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🌱 Learning HTML, Java
 
 
-![WuJi-yb's github stats](https://github-readme-stats.vercel.app/api?username=WuJi_yb&show_icons=true&theme=dark&count_private=true)
+![WuJi-yb's github stats](https://github-readme-stats.vercel.app/api?username=WuJi-yb&show_icons=true&theme=dark&count_private=true)
 
 ![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=WuJi-yb.WuJi-yb.readme)
